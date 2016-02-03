@@ -5,4 +5,3 @@ version 1.0
 =======
 (master) test2
 >>>>>>> master
-(test_1) test3
