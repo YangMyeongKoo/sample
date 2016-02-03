@@ -1,7 +1,0 @@
-version 1.0
-(master) test1
-<<<<<<< HEAD
-(test_1) test
-=======
-(master) test2
->>>>>>> master
