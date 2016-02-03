@@ -5,3 +5,4 @@ version 1.0
 =======
 (master) test2
 >>>>>>> master
+(master) test3
